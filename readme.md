@@ -26,7 +26,9 @@ If the auto-installer fails, run this command:
 Bash
 
 pip install requests colorama tqdm
+
 ⚠️ Important Notice
 V-RIP is designed for educational and testing purposes. Due to target site updates, a small percentage of views may not be registered by some third-party analytics.
+
 
 Made by blade
