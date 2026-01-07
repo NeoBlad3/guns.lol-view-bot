@@ -13,7 +13,7 @@
 
 ## 🚀 How to Use
 
-1. **Download:** Grab the latest `V-RIP_v2.2.exe` from the [Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases) section.
+1. **Download:** Grab the latest version from the [Releases](https://github.com/NeoBlad3/guns.lol-view-bot/releases) section.
 2. **Purchase Credits:** For purchasing credits and getting your API Key, use this link: 
    👉 **[https://scrappey.com/?via=V-RIP](https://scrappey.com/?via=V-RIP)**
 3. **Run:** Open the tool, paste your key, target URL, and the number of views.
@@ -27,8 +27,9 @@ If you prefer to run the script manually:
 2. Run the application (dependencies will install automatically):
    ```bash
    python app.py
-
+   
 ⚠️ Important Notice
 V-RIP is designed for educational and testing purposes. Please note that due to target site updates and anti-spam measures, a small percentage of views may not be registered by some third-party analytics.
+
 
 Made by blade
